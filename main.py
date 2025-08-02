@@ -21,7 +21,7 @@ DEST_GROUP_ID = -1002812160351
 INTERVAL_SECONDS = 20.0
 MESSAGE_ORDER = 1  # 1 para mais recentes primeiro
 MESSAGE_LIMIT = 260
-DEFAULT_LAST_CLONE_TIME = "2025-08-01T13:23:00-03:00"  # 24 horas atrás do horário atual (02/08/2025 13:23 -03)
+DEFAULT_LAST_CLONE_TIME = "2025-08-01T13:28:00-03:00"  # 24 horas atrás do horário atual (02/08/2025 13:28 -03)
 
 # Cria pasta para dados
 os.makedirs("data", exist_ok=True)
