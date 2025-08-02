@@ -1,0 +1,7 @@
+{
+    "source_group": -1002216934203,
+    "dest_group": -1002812160351,
+    "interval_seconds": 20.0,
+    "message_order": 1,
+    "message_limit": 260
+}
